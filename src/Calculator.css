@@ -1,0 +1,12 @@
+.calculator {
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 400px;
+  height: 450px;
+}
+.calculator__head {
+  border: 1px solid black;
+}
+.calculator__body td {
+  border: 1px solid black;
+}
